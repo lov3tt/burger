@@ -1,23 +1,22 @@
-# friendFinder
+# Eat-Da-Burger
 
->Link to Github repo https://github.com/lov3tt/friendFinder
+>Link to Github repo https://github.com/lov3tt/burger
 >Link to Heroku https://still-retreat-35025.herokuapp.com/
 
 ![IMG](img/home.png)
-![IMG](img/survey.png)
 
->Friend Finder app
 
-The Friend Finder app match you up with compability friends by answering a few survey question.
+>Eat-Da-Burger app
+
+The Eat-Da-Burger app allow you to eat whatever burger you want virtually.
 
 >Feature
 
 1) Save and store data.
 
-2) *In progress* Trying to access the store data
+2) Guilt-free
 
-3) *In progress* Find the difference score value
+3) Incorporate express, express-handlebars, and mysql.
 
-4) *In progress* Give the best match result onto the module popup.
 
 By Bobby Quach
