@@ -1,7 +1,7 @@
 # Eat-Da-Burger
 
 >Link to Github repo https://github.com/lov3tt/burger
->Link to Heroku https://still-retreat-35025.herokuapp.com/
+>Link to Heroku https://tranquil-ridge-50508.herokuapp.com/ 
 
 ![IMG](public/assets/img/home.png)
 
