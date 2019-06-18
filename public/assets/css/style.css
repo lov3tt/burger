@@ -1,0 +1,17 @@
+.bg {
+    background-image: url("../img/dark-honeycomb.png");
+    object-fit: cover;
+    font-family: 'Oleo Script', cursive;
+}
+
+.jumbotron {
+    background-color: chartreuse
+}
+
+#img {
+    background-image: url("../img/burger.png");
+    width: 225px;
+    height: 225px;
+    background-repeat: no-repeat;
+}
+
