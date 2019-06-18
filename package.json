@@ -1,10 +1,11 @@
 {
   "name": "mvc_design",
   "version": "1.0.0",
-  "description": "",
+  "description": ">Link to Github repo https://github.com/lov3tt/burger >Link to Heroku https://still-retreat-35025.herokuapp.com/",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
@@ -15,5 +16,13 @@
   },
   "devDependencies": {
     "handlebars-helper-css": "^0.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lov3tt/burger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lov3tt/burger/issues"
+  },
+  "homepage": "https://github.com/lov3tt/burger#readme"
 }
