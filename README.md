@@ -3,7 +3,7 @@
 >Link to Github repo https://github.com/lov3tt/burger
 >Link to Heroku https://still-retreat-35025.herokuapp.com/
 
-![IMG](img/home.png)
+![IMG](public/assets/img/home.png)
 
 
 >Eat-Da-Burger app
